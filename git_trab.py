@@ -1,5 +1,9 @@
 #Creator: Oziel Ramos
 #Any questions, send me an email: prof.oziiel@gmail.com
+#Envie um email: prof.oziiel@gmail.com
+#Para Qualquer dúvida, feedback, orientações ou alguma mensagem que vise
+# a colaboração e evolução deste trabalho
+
 
 #Lib de reconhecimento de imagens
 import pytesseract
